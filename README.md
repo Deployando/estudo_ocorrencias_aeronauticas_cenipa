@@ -35,6 +35,7 @@ A ciência de dados é fundamental no estudo e na análise de comportamento, ten
 
 ## Premissa
 
+- Jupyter Notebook "Ambiente de execução"
 - Python "Linguagem de programação"
 - Pandas "Biblioteca"
 - Matplotlib "Biblioteca"
