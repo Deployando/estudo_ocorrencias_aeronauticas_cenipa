@@ -19,7 +19,7 @@ Garantir a segurança aérea no Brasil não é uma tarefa fácil, devido à comp
 
 ## Objetivo
 
-Esse projeto visa explorar os dados sobre ocorrências aeronáuticas na aviação civil brasileira, nos últimos dez anos, nesse estudo exploratório de dados busquei responder algumas perguntas como: Quais os fabricantes que apresentam mais ocorrências? Quais tipos de aeronaves possuem mais problemas? Quais os tipos de operações apresentam mais riscos? E quais ocorrências possuem maior frequência?
+Esse projeto visa explorar os dados sobre as ocorrências aeronáuticas na aviação civil brasileira, nos últimos dez anos, nesse estudo exploratório de dados busquei responder algumas perguntas como: Quais os fabricantes que apresentam mais ocorrências? Quais tipos de aeronaves possuem mais problemas? Quais os tipos de operações apresentam mais riscos? E quais ocorrências possuem maior frequência?
 
 Para este estudo, foi aplicado 3 datasets da CENIPA:
 
