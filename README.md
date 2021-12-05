@@ -15,11 +15,11 @@
 
 ## Resumo
 
-Garantir a segurança aérea no brasil não é uma tarefa fácil devido a complexidade da aviação civil, que conta desde voos comerciais, particulares, agrícolas entre outros, todos são responsáveis pela segurança de voo desde de modelo chamado asa fixa ou rotativa. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA) é uma unidade da Força Aérea Brasileira responsável por investigar acidentes e incidentes de aviação no Brasil tendo como finalidade planejar, gerenciar, controlar e executar as atividades relacionadas com a prevenção e investigação de acidentes aeronáuticos, tendo como missão a preservação da vida humana.
+Garantir a segurança aérea no Brasil não é uma tarefa fácil, devido à complexidade da aviação civil que conta desde voos comerciais, particulares, agrícolas entre outros, todos são responsáveis pela segurança de voo desde de modelos chamados de asa fixa ou rotativa. O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA) é uma unidade da Força Aérea Brasileira responsável por investigar acidentes e incidentes de aviação no Brasil tendo como finalidade planejar, gerenciar, controlar e executar as atividades relacionadas com a prevenção e investigação de acidentes aeronáuticos, tendo como missão a preservação da vida humana.
 
 ## Objetivo
 
-Esse projeto visa explorar os dados sobre ocorrências Aeronáuticas na Aviação Civil Brasileira, nos últimos 10 anos, nessa estudo exploratória de dados busco responder: qual o fabricante apresenta mais ocorrência, qual tipo de aeronave possui mais problemas, qual tipo de operação que aprensenta mais risco e qual ocorrência ocorre com mais frequência.
+Esse projeto visa explorar os dados sobre ocorrências aeronáuticas na aviação civil brasileira, nos últimos dez anos, nesse estudo exploratório de dados busquei responder algumas perguntas como: Quais os fabricantes que apresentam mais ocorrências? Quais tipos de aeronaves possuem mais problemas? Quais os tipos de operações apresentam mais riscos? E quais ocorrências possuem maior frequência?
 
 Para este estudo, foi aplicado 3 datasets da CENIPA:
 
@@ -29,7 +29,7 @@ Para este estudo, foi aplicado 3 datasets da CENIPA:
 
 ## Conclusão
 
-A ciência de dados é fundamental no estudo e na análise de comportamento, tendência e anomalias, detectando padrões e obtenção de insights para possíveis tomadas de decisão, os gráficos aqui explorados evidenciam quais políticas de segurança de voo devem ser elaboradas, quais os temas de conscientização as campanhas devem salientar e sendo o mais importante prevenir e tornar o espaço aéreo brasileiro mais seguro. 
+A ciência de dados é fundamental no estudo e na análise de comportamento, tendência e anomalias, detectando padrões e obtendo insights para possíveis tomadas de decisões, os gráficos aqui explorados evidenciam quais políticas de segurança de voos devem ser elaboradas, quais os temas de conscientização as campanhas devem salientar e sendo o mais importante prevenir e tornar o espaço aéreo brasileiro mais seguro.
 
 > Não se espante com a altura do voo. Quanto mais alto, mais longe do perigo. Quanto mais você se eleva, mais tempo há de reconhecer uma pane. É quando se está próximo do solo que se deve desconfiar. (Santos Dumont)
 
