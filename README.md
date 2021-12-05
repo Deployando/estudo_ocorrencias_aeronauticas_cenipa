@@ -29,7 +29,7 @@ Para este estudo, foi aplicado 3 datasets da CENIPA:
 
 ## Conclusão
 
-A ciência de dados é fundamental no estudo e na análise de comportamento, tendência e anomalias, detectando padrões e obtendo insights para possíveis tomadas de decisões, os gráficos aqui explorados evidenciam quais políticas de segurança de voos devem ser elaboradas, quais os temas de conscientização as campanhas devem salientar e sendo o mais importante prevenir e tornar o espaço aéreo brasileiro mais seguro.
+A ciência de dados é fundamental no estudo e na análise de comportamento, tendência e anomalias, detectando padrões e obtendo insights para possíveis tomadas de decisões, os gráficos aqui explorados evidenciam quais políticas de segurança de voos devem ser elaboradas, quais os temas de conscientização as campanhas devem salientar e o mais importante prevenir e tornar o espaço aéreo brasileiro mais seguro.
 
 > Não se espante com a altura do voo. Quanto mais alto, mais longe do perigo. Quanto mais você se eleva, mais tempo há de reconhecer uma pane. É quando se está próximo do solo que se deve desconfiar. (Santos Dumont)
 
